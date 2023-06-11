@@ -1,0 +1,5 @@
+C:\Users\Acorn\Desktop\Files\Projects\tictactoe_wpf_csharp\tictactoe_wpf_csharp\tictactoe_wpf_csharp\obj\Debug\net7.0-windows\tictactoe_wpf_csharp.csproj.AssemblyReference.cache
+C:\Users\Acorn\Desktop\Files\Projects\tictactoe_wpf_csharp\tictactoe_wpf_csharp\tictactoe_wpf_csharp\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acorn\Desktop\Files\Projects\tictactoe_wpf_csharp\tictactoe_wpf_csharp\tictactoe_wpf_csharp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acorn\Desktop\Files\Projects\tictactoe_wpf_csharp\tictactoe_wpf_csharp\tictactoe_wpf_csharp\obj\Debug\net7.0-windows\tictactoe_wpf_csharp_MarkupCompile.cache
+C:\Users\Acorn\Desktop\Files\Projects\tictactoe_wpf_csharp\tictactoe_wpf_csharp\tictactoe_wpf_csharp\obj\Debug\net7.0-windows\tictactoe_wpf_csharp_MarkupCompile.lref
