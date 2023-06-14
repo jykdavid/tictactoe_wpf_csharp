@@ -112,7 +112,26 @@ namespace tictactoe_wpf_csharp
             GameGrid[r, c] = CurrentPlayer;
             TurnsPassed++;
 
-            
+            if (DidMoveEndGame(r, c, out GameResult gameResult))
+            {
+                GameOver = true;
+                MoveMade?.Invoke(r, c);
+                GameEnded?.Invoke(gameResult);
+            }
+            else
+            {
+                SwitchPlayer();
+                MoveMade?.Invoke(r, c);
+            }
+        }
+
+        public void Reset()
+        {
+            GameGrid = new Player[3, 3];
+            CurrentPlayer = Player.X;
+            TurnsPassed = 0;
+            GameOver = false;
+            GameRestarted?.Invoke();
         }
     }
 }
